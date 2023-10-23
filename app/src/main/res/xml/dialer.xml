@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<role xmlns:android="http://schemas.android.com/apk/res/android">
+    <holder android:name="com.papputech.nallacaller"/>
+</role>
